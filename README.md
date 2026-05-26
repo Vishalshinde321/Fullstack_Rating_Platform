@@ -1,0 +1,1 @@
+# Fullstack_Rating_Platform
